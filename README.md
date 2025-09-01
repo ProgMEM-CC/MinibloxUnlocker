@@ -1,7 +1,7 @@
 ## ⚠️ **HOW TO INSTALL (CHROME)**
 
-1. Go here: [Releases](placeholder)
-2. Under Assets click and download `MBGE.zip`
+1. Go here: [Releases](https://github.com/heythereu/Miniblox-Gamemodes-Extension/releases)
+2. Click and download `MBGE.zip`
 3. Go to `chrome://extensions` in browser
 4. Enable developer mode if you haven't already (top right corner)
 5. Find `MBGE.zip` in your File Explorer
@@ -12,7 +12,7 @@
 
 You can download the extension right here:
 
-[Releases](placeholder)
+[Releases](https://github.com/heythereu/Miniblox-Gamemodes-Extension/releases)
 
 ## ⭐ Star
 
