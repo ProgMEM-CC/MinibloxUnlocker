@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="mgbet.gif" alt="Tutorial" width="800" />
+</p>
+<p align="center">
+  <em><b>A simple tutorial to show you how to install</em>
+</p>
+
 ## ⚠️ **HOW TO INSTALL (CHROME)**
 
 1. Go here: [Releases](https://github.com/heythereu/Miniblox-Gamemodes-Extension/releases)
