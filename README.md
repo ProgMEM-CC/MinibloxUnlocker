@@ -7,7 +7,7 @@
 
 ## ⚠️ **HOW TO INSTALL (CHROME)**
 
-1. Go here: [Releases](https://github.com/heythereu/Miniblox-Gamemodes-Extension/releases)
+1. Go here: [Releases](https://github.com/hProgMEM-CC/MinibloxUnlocker/releases)
 2. Click and download `MBGE.zip`
 3. Go to `chrome://extensions` in browser
 4. Enable developer mode if you haven't already (top right corner)
@@ -19,13 +19,13 @@
 
 You can download the extension right here:
 
-[Releases](https://github.com/heythereu/Miniblox-Gamemodes-Extension/releases)
+[Releases](https://github.com/ProgMEM-CC/MinibloxUnlocker)
 
 ## ⭐ Star
 
 If you want to say **Thank You** and/or support me:
 
-Add a [GitHub Star](https://github.com/heythereu/Miniblox-Gamemodes-Extension/stargazers) to the project.
+Add a [GitHub Star](https://github.com/ProgMEM-CC/MinibloxUnlocker) to the project.
 
 ## 💡 Credits
 
@@ -33,9 +33,9 @@ If you encounter any issues, please let me know on discord:
 
 KEEP IN MIND I DO NOT HAVE ANY ALTERNATIVE ACCOUNTS
 
-@hunterd123 // Nickname: heythereu
+ // Nickname: ProgMEM-CC
 
-Extension created by: heythereu
+Extension created by: ProgMEM-CC
 
 
 
